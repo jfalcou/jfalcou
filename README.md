@@ -39,4 +39,4 @@ multi-core clusters.
 I am the co-host of the [**C++FRUG Meetup**](https://www.meetup.com/fr-FR/User-Group-Cpp-Francophone/),
 president of the C++FRUG Association and I co-organize the [**CPPP Conference**](https://cppp.fr/).
 
-You can find me on [**Twitter**](https://twitter.com/CppSpelunker) or on the [**include Discord**](https://www.includecpp.org/discord/
+You can find me on [**Twitter**](https://twitter.com/CppSpelunker) or on the [**#include Discord**](https://www.includecpp.org/discord/)
