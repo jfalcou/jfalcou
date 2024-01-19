@@ -1,24 +1,9 @@
-<!--
-**jfalcou/jfalcou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # ⚡ Short Intro ⚡
 
 I am Joel Falcou, Destroyer of World, Terror of the Compilers.
 
 In my spare time, I am an associated professor at the University Paris-Saclay and researcher at the
-[Laboratoire de Recherche d’Informatique](https://www.lri.fr/) in Orsay, France. My research focuses
+[Laboratoire de Recherche d’Informatique](https://www.lisn.fr/) in Orsay, France. My research focuses
 on studying generative programming idioms and techniques to design tools for parallel software
 development.
 
@@ -39,4 +24,4 @@ multi-core clusters.
 I am the co-host of the [**C++FRUG Meetup**](https://www.meetup.com/fr-FR/User-Group-Cpp-Francophone/),
 president of the C++FRUG Association and I co-organize the [**CPPP Conference**](https://cppp.fr/).
 
-You can find me on [**Twitter**](https://twitter.com/CppSpelunker) or on the [**#include Discord**](https://www.includecpp.org/discord/)
+You can find me on [**Mastodon**](https://mastodon.social/@joel_falcou) or on the [**#include Discord**](https://www.includecpp.org/discord/)
